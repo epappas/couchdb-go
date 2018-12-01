@@ -1,7 +1,7 @@
 couchdb-go
 ==========
 
-[![Build Status](https://travis-ci.org/rhinoman/couchdb-go.svg?branch=master)](https://travis-ci.org/rhinoman/couchdb-go)
+[![Build Status](https://travis-ci.org/epappas/couchdb-go.svg?branch=master)](https://travis-ci.org/epappas/couchdb-go)
 
 **NOTE**:  Use the v1.0 Tag for CouchDB 1.0.  The current master is being used for CouchDB 2.x work (still a work in progress).
 
@@ -15,13 +15,13 @@ Installation
 ------------
 
 ```
-go get github.com/rhinoman/couchdb-go
+go get github.com/epappas/couchdb-go
 ```
 
 Documentation
 -------------
 
-See the Godoc: http://godoc.org/github.com/rhinoman/couchdb-go
+See the Godoc: http://godoc.org/github.com/epappas/couchdb-go
 
 Example Usage
 -------------
